@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head id="Head1" runat="server">
-    <title>无标题页</title>
+    <title>新闻编辑</title>
     <link rel="stylesheet" href="css/semantic.css" media="screen" title="no title" charset="utf-8">
       <link rel="stylesheet" href="css/style2.css" />
         <link rel="stylesheet" href="css/editormd.css" />
